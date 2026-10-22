@@ -1,0 +1,9 @@
+# dataset path
+train: /home/user/gx/mydata/images/train
+val: /home/user/gx/mydata/images/val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['magnolia']
